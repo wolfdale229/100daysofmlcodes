@@ -55,13 +55,7 @@ The following resources would be used for each stage:
 ## Day 0 : 18-04-2020
 
 **`Today's Progress`** : Set up a git repository, work through the resource's section and get everything
-<<<<<<< HEAD
 ready .Learn Numpy's data types and how to create a n-dimensional array.
 
 **Link of Work:** [DataTypes & N-dimensional array](https://numpy.org/devdocs/user/basics.types.html)
     
-=======
-ready .
-Learn Numpy's data types and how to create a n-dimensional array
-
-**Link of Work:** [DataTypes & N-dimensional array](https://numpy.org/devdocs/user/basics.types.html)
