@@ -56,5 +56,7 @@ The following resources would be used for each stage:
 
 **`Today's Progress`** : Set up a git repository, work through the resource's section and get everything
 ready .
-**Link of Work:**  [DataTypes & N-dimensional array](https://numpy.org/devdocs/user/basics.types.html)
+Learn Numpy's data types and how to create a n-dimensional array
+
+**Link of Work:** [DataTypes & N-dimensional array](https://numpy.org/devdocs/user/basics.types.html)
     
