@@ -51,3 +51,10 @@ The following resources would be used for each stage:
     9. Goggle Colab : Colaboratory, or "Colab" for short, is a product from Google Research. Colab allows 
     anybody to write and execute arbitrary python code through the browser, and is especially well suited 
     to machine learning, data analysis and education... https://research.google.com/colaboratory
+    
+## Day 0 : 18-04-2020
+
+**`Today's Progress`** : Set up a git repository, work through the resource's section and get everything
+ready .
+**Link of Work:**  [DataTypes & N-dimensional array](https://numpy.org/devdocs/user/basics.types.html)
+    
