@@ -63,3 +63,6 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 
 **`Today's Progress`** : Numpy arithmetics, basic indexing and slicing.
     
+## Day 2 : 20-04-2020
+
+**`Today's Progress`** : Transposing Arrays, swapping Axes and Fast element-wise array (universal function)
