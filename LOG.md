@@ -52,17 +52,21 @@ The following resources would be used for each stage:
     anybody to write and execute arbitrary python code through the browser, and is especially well suited 
     to machine learning, data analysis and education... https://research.google.com/colaboratory
 
-## Day 0 : 18-04-2020
+## Day 1 : 18-04-2020
 
 **`Today's Progress`** : Set up a git repository, work through the resource's section and get everything
 ready .Learn Numpy's data types and how to create a n-dimensional array.
 
 **Link of Work:** [DataTypes & N-dimensional array](https://numpy.org/devdocs/user/basics.types.html)
 
-## Day 1 : 19-04-202
+## Day 2 : 19-04-202
 
 **`Today's Progress`** : Numpy arithmetics, basic indexing and slicing.
     
-## Day 2 : 20-04-2020
+## Day 3 : 20-04-2020
 
 **`Today's Progress`** : Transposing Arrays, swapping Axes and Fast element-wise array (universal function)
+
+## Day 4 : 21-04-2020
+
+**`Today's Progress`** : Mathematical and statistical methods, Methods for boolean arrays, sorting
