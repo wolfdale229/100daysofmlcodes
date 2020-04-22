@@ -69,4 +69,8 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 
 ## Day 4 : 21-04-2020
 
-**`Today's Progress`** : Mathematical and statistical methods, Methods for boolean arrays, sorting
+**`Today's Progress`** : Mathematical and statistical methods, 
+
+## Day 5 : 22-04-2020
+
+**`Today's Progress`** : Methods for boolean arrays, sorting
