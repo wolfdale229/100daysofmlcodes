@@ -2,7 +2,7 @@
 
 ## **`To-Do`**
 
-Within the period of 100 days i would read and practice enough data science and machine learning texts to be competent in the subject area. A total of six topics would be studied, with each topic having a total 16 days study period.
+Within the period of 100 days i would read and practice enough data science and machine learning texts to be competent in the subject area. A total of six topics would be studied, with each topic having a total of 16 days study period (subject to how much i read).
 
 **`Basic Topic(s)`**
 > 
