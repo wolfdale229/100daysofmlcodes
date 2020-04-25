@@ -2,7 +2,7 @@
 
 ## **`To-Do`**
 
-Within the period of 100 days i would read and practice enough data science and machine learning texts to be competent in the subject area. A total of six topics would be studied, with each topic having a total of 16 days study period (subject to how much i read).
+Within the period of 100 days i would read and practice enough data science and machine learning texts to be competent in the subject area. A total of six topics would be studied, with each topic having a total of 16 days study period (subject to how much i read)
 
 **`Basic Topic(s)`**
 > 
@@ -57,7 +57,7 @@ The following resources would be used for each stage:
 **`Today's Progress`** : Set up a git repository, work through the resource's section and get everything
 ready .Learn Numpy's data types and how to create a n-dimensional array.
 
-**Link of Work:** [DataTypes & N-dimensional array](https://numpy.org/devdocs/user/basics.types.html)
+**Link : ** [DataTypes & N-dimensional array](https://numpy.org/devdocs/user/basics.types.html)
 
 ## Day 2 : 19-04-202
 
@@ -74,3 +74,11 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 ## Day 5 : 22-04-2020
 
 **`Today's Progress`** : Methods for boolean arrays, sorting
+
+## Day 6 : 23-04-2020
+
+**`Today's Progress`** :pandas series and dataframe
+
+## Day 7 - 8 : 25-04-2020
+
+**`Today's Progress`** : Reindexing, Function Application and Mapping, Arithmetic and Data Alignment, Dropping Entries from an Axis
