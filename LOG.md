@@ -82,3 +82,8 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 ## Day 7 - 8 : 25-04-2020
 
 **`Today's Progress`** : Reindexing, Function Application and Mapping, Arithmetic and Data Alignment, Dropping Entries from an Axis
+
+## Day 9 : 26-04-2020
+
+**`Today's Progress`** : Reading and Writing Data in Text Format
+
