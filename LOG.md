@@ -87,3 +87,10 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 
 **`Today's Progress`** : Reading and Writing Data in Text Format
 
+## Day 10 : 27-04-2020
+
+**`Today's Progress`** : Overview of Machine Learning
+
+## Day 10 : 28-04-2020
+
+**`Today's Progress`** : End-To-End machine learning project
