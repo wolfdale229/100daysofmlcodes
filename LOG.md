@@ -93,4 +93,9 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 
 ## Day 10 : 28-04-2020
 
-**`Today's Progress`** : End-To-End machine learning project
+**`Today's Progress`** : End-To-End machine learning project 
+> 
+    - Loading the data
+    - Creating Train and Test sets (using stratified sampling)
+    - Visualizing the data
+  
