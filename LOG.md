@@ -95,7 +95,44 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 
 **`Today's Progress`** : End-To-End machine learning project 
 > 
-    - Loading the data
-    - Creating Train and Test sets (using stratified sampling)
-    - Visualizing the data
-  
+    1. Loading the data
+    2. Creating Train and Test sets (using stratified sampling)
+    3. Exploring the data
+        * Visualizing the data
+        * Correlation
+        * Scatter matrix
+        * Normal distribution curve
+    
+## Day 10-11 : 29-04-2020
+
+**`Today's Progress`** : End-To-End machine learning project 
+>
+    4. Prepare the Data for Machine Learning Algorithms
+        * Data cleaning
+            > 
+                - SimpleImputer() class
+                - Dropna()
+                - drop()
+                - fillna()     
+        * Handling text and categorical attributes
+            >
+                - OrdinalEncoder() class
+                - OneHotEncoder() class
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
