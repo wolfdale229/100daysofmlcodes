@@ -109,13 +109,11 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 >
     4. Prepare the Data for Machine Learning Algorithms
         * Data cleaning
-            > 
                 - SimpleImputer() class
                 - Dropna()
                 - drop()
                 - fillna()     
         * Handling text and categorical attributes
-            >
                 - OrdinalEncoder() class
                 - OneHotEncoder() class
         
