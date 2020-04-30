@@ -5,7 +5,6 @@
 Within the period of 100 days i would read and practice enough data science and machine learning texts to be competent in the subject area. A total of six topics would be studied, with each topic having a total of 16 days study period (subject to how much i read)
 
 **`Things To Learn`**
-> 
     1. Numpy : Numerical computation package in python.
     2. Pandas : package that contains data structures and data manipulation tools designed to make data
     cleaning and analysis fast and easy in Python
@@ -29,22 +28,17 @@ The following resources would be used for each stage:
     3. Hands-on Machine Learning with Scikit-Learn,Keras & TensorFlow.(Aurélien Géron)
 
 **`Data Repositories`**
->
     4. [kaggle](https://www.kaggle.com)
     5. [uci repo](http://archive.ics.uci.edu/ml/index.php)
 
 **`Blogs`**
->
     6. [machine learning mastery](https://www.machinelearningmastery.com)
     7. [mrdbourke](https://www.mrdbourke.com/)
 
 **`Software`**
->
     8. Anaconda/jupyter notebook : Anaconda is the standard platform for Python data science, leading in 
     open source innovation for machine learning... [anaconda](https://www.anaconda.com) .
-    9. Goggle Colab : Colaboratory, or "Colab" for short, is a product from Google Research. Colab allows 
-    anybody to write and execute arbitrary python code through the browser, and is especially well suited 
-    to machine learning, data analysis and education...[google colab](https://research.google.com/colaboratory)
+    9. Goggle Colab : Colaboratory, or "Colab" for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education...[google colab](https://research.google.com/colaboratory)
 
 ## Day 1 : 18-04-2020
 
