@@ -119,12 +119,23 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
                 - Pipeline() class
                 - ColumnTranformer() class
          
-## Day 12 : 29-04-2020
+## Day 11-12 : 30-04-2020
 
 **`Today's Progress`** : End-To-End machine learning project 
-        
-        
-        
+>
+    4. ... Continue
+        * Handling text and categorical attributes
+                - Pipeline() class
+                - ColumnTranformer() class
+                - StandardScaler()
+    5. Select and Train a Model
+        * Training and Evaluating on the Training Set
+            - Linear regression 
+            - Decision Tree
+            - RandomForest Regressor
+        * Better Evaluation Using Cross-Validation
+            - cross_val_score()
+        * Fine-Tune Your Model
         
         
         
