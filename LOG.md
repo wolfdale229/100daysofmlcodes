@@ -37,7 +37,7 @@ The following resources would be used for each stage:
 
 4. [kaggle](https://www.kaggle.com)
 
-5. [uci repo](http://archive.ics.uci.edu/ml/index.php)
+5. [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 
 **`Blogs`**
   
@@ -130,13 +130,37 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
                 - StandardScaler()
     5. Select and Train a Model
         * Training and Evaluating on the Training Set
-            - Linear regression 
-            - Decision Tree
-            - RandomForest Regressor
+                - Linear regression 
+                - Decision Tree
+                - RandomForest Regressor
         * Better Evaluation Using Cross-Validation
-            - cross_val_score()
+                - cross_val_score()
         * Fine-Tune Your Model
-        
+       
+## Day 12-13 : 1-05-2020
+
+**`Today's Progress`** : End-To-End machine learning project
+>
+    5. ... Continue
+                - Randomized Search
+                - Grid Search
+                - Ensemble method
+                - Manual method
+         * Feature importance (randomForest algorithm)
+         * Evaluate Your System on the Test Set
+         * Launch, Monitor, and Maintain The System
+         
+## Day 14 : 2-05-2020
+
+**`Today's Progress`** : End-To-End machine learning exercises
+>
+    1. Try using Support Vector Machine regressor
+    2. Replace GridSearchCV with RandomSearchCV
+    3. Create a Pipeline
+
+## Day 15 : 3-05-2020
+
+**` Today's Progress`** : Classification (MNIST dataset)
         
         
         
