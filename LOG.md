@@ -160,7 +160,23 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 
 ## Day 15 : 3-05-2020
 
-**` Today's Progress`** : Classification (MNIST dataset)
+**` Today's Progress`** : Classification (MNIST dataset); Binary Classifiction
+>
+    1. Training a Binary Classifier
+    2. Performance Measures (binary classifier)
+        - Measuring Accuracy Using Cross-Validation
+        - Confusion Matrix
+        - Precision and Recall
+        - F1 Score
+        - Precision/Recall Trade-off
+        - The ROC Curve
+
+## Day 15-16 : 4-05-2020
+
+**`Today's Progress`** : Classification; Multiclass Classification
+>
+    1. Training a Multiclass Classifier
+        
         
         
         
