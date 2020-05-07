@@ -176,7 +176,20 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 **`Today's Progress`** : Classification; Multiclass Classification
 >
     1. Training a Multiclass Classifier
-        
+
+## Day 17 : 5-5-2020
+
+**`Today's Progress`** : Classification : Error Analysis (Found Error analysis confusing, noted for further reading )
+>
+    1. Error analysis
+    2. chapter 3 exercises (started)
+
+## Day 17-18 : 6-5-2020
+
+**`Today's Progress`** : Chapter 3 exercises
+>
+    1. Use KNeighborsClassifier to get a score of 97%
+    2. Titanic dataset
         
         
         
