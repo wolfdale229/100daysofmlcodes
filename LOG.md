@@ -30,8 +30,8 @@ The following resources would be used for each stage:
 **`Books`**
 >
     1. Python for Data Analysis.(Wes McKinney)
-    2. Introduction to Machine Learning with Python.(Andreas C. Müller & Sarah Guido)
-    3. Hands-on Machine Learning with Scikit-Learn,Keras & TensorFlow.(Aurélien Géron)
+    2. Hands-on Machine Learning with Scikit-Learn,Keras & TensorFlow.(Aurélien Géron)
+    3. Deep Learning with Python (Francois Chollet)
 
 **`Data Repositories`**
 
@@ -91,7 +91,7 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 
 **`Today's Progress`** : Overview of Machine Learning
 
-## Day 10 : 28-04-2020
+## Day 11 : 28-04-2020
 
 **`Today's Progress`** : End-To-End machine learning project 
 > 
@@ -103,7 +103,7 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
         * Scatter matrix
         * Normal distribution curve
     
-## Day 10-11 : 29-04-2020
+## Day 11 - 12 : 29-04-2020
 
 **`Today's Progress`** : End-To-End machine learning project 
 >
@@ -119,7 +119,7 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
                 - Pipeline() class
                 - ColumnTranformer() class
          
-## Day 11-12 : 30-04-2020
+## Day 12 - 13 : 30-04-2020
 
 **`Today's Progress`** : End-To-End machine learning project 
 >
@@ -137,7 +137,7 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
                 - cross_val_score()
         * Fine-Tune Your Model
        
-## Day 12-13 : 1-05-2020
+## Day 13 - 14 : 1-05-2020
 
 **`Today's Progress`** : End-To-End machine learning project
 >
@@ -150,7 +150,7 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
          * Evaluate Your System on the Test Set
          * Launch, Monitor, and Maintain The System
          
-## Day 14 : 2-05-2020
+## Day 15 : 2-05-2020
 
 **`Today's Progress`** : End-To-End machine learning exercises
 >
@@ -158,7 +158,7 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
     2. Replace GridSearchCV with RandomSearchCV
     3. Create a Pipeline
 
-## Day 15 : 3-05-2020
+## Day 16 : 3-05-2020
 
 **` Today's Progress`** : Classification (MNIST dataset); Binary Classifiction
 >
@@ -171,28 +171,49 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
         - Precision/Recall Trade-off
         - The ROC Curve
 
-## Day 15-16 : 4-05-2020
+## Day 16 - 17 : 4-05-2020
 
 **`Today's Progress`** : Classification; Multiclass Classification
 >
     1. Training a Multiclass Classifier
 
-## Day 17 : 5-5-2020
+## Day 18 : 5-5-2020
 
 **`Today's Progress`** : Classification : Error Analysis (Found Error analysis confusing, noted for further reading )
 >
     1. Error analysis
     2. chapter 3 exercises (started)
 
-## Day 17-18 : 6-5-2020
+## Day 18 - 19 : 6-5-2020
 
 **`Today's Progress`** : Chapter 3 exercises
 >
     1. Use KNeighborsClassifier to get a score of 97%
     2. Titanic dataset
-        
-        
-        
+
+## Day 20 - 21: 7-05-2020
+
+**`Today's Progress`** : Linear Regressions
+>
+    1. What is a Linear Regression
+    2. Calculating a Linear Regression 
+        *. Normal Equation (method 1)
+        *. Gradient Descent (method 2)
+
+## Day 22 : 8-5-2020
+
+**`Today's Progress`** : Linear Regressions (continuation)
+>
+        *. Mini-batch Gradient Descent
+        *. Stochastic Gradient Descent
+    3. polynomial Regression
+      
+## Day 23 : 9-05-2020
+
+**`Today's Progress`** : Chapter 3 exercises
+>
+    1. Working on a classification exercise
+    2. polynomial Regression
         
         
         
