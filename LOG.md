@@ -210,10 +210,21 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
       
 ## Day 23 : 9-05-2020
 
-**`Today's Progress`** : Chapter 3 exercises
+**`Today's Progress`** : Chapter 3 exercises, Linear Model
 >
-    1. Working on a classification exercise
-    2. polynomial Regression
+    1. Polynomial Regression
+    2. Learning Curves
+    3. Regularized Linear Models
+    
+## Day 24-25 : 10/11-05-2020
+
+**`Today's Progress`** : Linear Model
+>
+    1. Ridge Regression
+    2. Lasso Regression
+    3. Early Stopping
+    4. Logistic Regression
+    5. Softmax Regression
         
         
         
