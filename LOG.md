@@ -226,14 +226,21 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
     4. Logistic Regression
     5. Softmax Regression
         
-## Day 26 : 12-05-2020
+## Day 26 : 12/13-05-2020
 
 **`Today's Progress`** 
 >
     1. Practice (Predictiing the price of used fiat automobiles)
     2. Reading scikit-learn doc (Getting started section)
+    3. Practice (predicting the quality of wine)
         
-        
+## Day 27 : 12/13-05-2020
+
+**`Today's Progress`** : Support vector machines      
+
+## Day 28 : 14-05-2020
+
+**`Today's Progress`** : Linear SVM classifier
         
         
         
