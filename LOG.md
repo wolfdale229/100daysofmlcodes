@@ -241,6 +241,14 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 ## Day 28 : 14-05-2020
 
 **`Today's Progress`** : Linear SVM classifier
+
+## Day 29 : 15-05-2020
+
+**`Today's Progress`** Done with support vector machines
+
+## Day 30 : 16-05-2020
+
+**`Today's Progress`** : Decision Trees
         
         
         
