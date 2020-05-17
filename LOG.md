@@ -252,6 +252,7 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 >
     1. [Decision tree from scratch](https://r2---sn-i3b7knl6.googlevideo.com/videoplayback?expire=1589601694&ei=PhG_Xs3iC8eR-gbt1LT4BQ&ip=123.16.150.42&id=o-ALauN0Ti66dcaa29L8vJ9TegCgA5KpDOJBk53UioVJAZ&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=592.062&lmt=1540157856275889&fvip=7&fexp=23882514&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgDb9mQLtwkj7G_FNGW13njq9lfG8pdCE77_x40ZbsuSoCIQCeGf7Nuc_pkM6WNSy0IbAcRq9eb6veM_VlvvkFIOqDeQ%3D%3D&contentlength=32934629&video_id=LDRbO9a6XPU&title=Let%E2%80%99s+Write+a+Decision+Tree+Classifier+from+Scratch+-+Machine+Learning+Recipes+%238&rm=sn-8qj-i5ozd7k,sn-8qj-i5oer7k&req_id=9ba6c214ecd3a3ee&ipbypass=yes&redirect_counter=2&cms_redirect=yes&mh=TF&mm=30&mn=sn-i3b7knl6&ms=nxu&mt=1589589380&mv=m&mvi=1&pl=21&lsparams=ipbypass,mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAK_lCOXFjB3EGro4L3lyTYDPexw7JNYLutJVhF4m7FxlAiEAlS1SrOiuDzwD0MsAkUA_A-9rApBJ0n5i1msMRcq9E_I%3D)
     2. Exercise (not all)
+    3. Hardware regression problem (Predicting the estimated relative performance).
         
         
         
