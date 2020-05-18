@@ -261,7 +261,13 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
     1. Voting Classifier
     2. Bagging and Pasting
     3. Out-of-bag Evaluation
-        
+    4. Random Forest
+            
+## Day 32 : 18-05-2020
+
+**`Today's Progress`** Ensemble Learning
+>
+    1. Extra Trees
         
         
         
