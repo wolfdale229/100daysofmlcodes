@@ -268,6 +268,21 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 **`Today's Progress`** Ensemble Learning
 >
     1. Extra Trees
+    2. exercises 
+Note : Still need to learn stacking method and blending
+        
+## Day 33 : 19-05-2020
+**`Today's Progress`** : Dimensionality Reduction
+>
+    1. Making a regression model to predict the quality of wine using the [wine quality dataset] (http://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
+    2. Principal component analysis
+        
+        
+        
+        
+        
+        
+        
         
         
         
