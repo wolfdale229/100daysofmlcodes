@@ -272,10 +272,28 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 Note : Still need to learn stacking method and blending
         
 ## Day 33 : 19-05-2020
+
 **`Today's Progress`** : Dimensionality Reduction
 >
     1. Making a regression model to predict the quality of wine using the [wine quality dataset] (http://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
     2. Principal component analysis
+Note : i did not understand this topic, come back to it later.
+
+## Day 34 : 20-05-2020
+
+**`Today's Progress`** : Model Evaluation and Improvement
+>
+    1. Cross validation 
+        * K-fold
+        * Stratified K-Fold
+        * Leave-one-out 
+        * shuffle-split 
+
+
+
+
+
+
         
         
         
