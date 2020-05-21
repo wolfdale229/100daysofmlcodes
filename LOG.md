@@ -289,6 +289,13 @@ Note : i did not understand this topic, come back to it later.
         * Leave-one-out 
         * shuffle-split 
 
+## Day 35 : 21-05-2020
+
+**`Today's Progress`** : Model Evaluation
+>
+    1. Grid Search
+        * Grid search with cross validation
+        * GridSearchCv estimator
 
 
 
