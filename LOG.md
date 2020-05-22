@@ -297,7 +297,16 @@ Note : i did not understand this topic, come back to it later.
         * Grid search with cross validation
         * GridSearchCv estimator
 
+## Day 36 : 22-05-2020
 
+**`Today's Progress`** : Metrics (Binary Classification)
+>
+    1. fi_score
+    2. Recall
+    3. Precision
+    4. confusion metrics
+    5. kind of errors
+    6. inbalanced data
 
 
 
