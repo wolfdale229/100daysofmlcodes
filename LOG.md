@@ -23,6 +23,11 @@ Within the period of 100 days i would read and practice enough data science and 
 6. `Pytorch` :  It is a deep learning research platforms built to provide maximum flexibility and 
     speed... [pytorch](https://pytorch.org/)
 
+7. `Keras` : Keras deep-learning framework that is the easiest framework to get started with...             [Keras](http://www.keras.org/)
+
+8. `Fastai` : Deep-learning library that works with pytorch...[fastai](https://fast.ai/)
+
+
 ## **`Resources`**
 
 The following resources would be used for each stage:
@@ -30,27 +35,39 @@ The following resources would be used for each stage:
 **`Books`**
 >
     1. Python for Data Analysis.(Wes McKinney)
-    2. Hands-on Machine Learning with Scikit-Learn,Keras & TensorFlow.(Aurélien Géron)
-    3. Deep Learning with Python (Francois Chollet)
+    2. Python Data Science Handbook. (Jake VanderPlas)
+    3. Python Machine Learning,Machine Learning and Deep Learning with Python,scikit-learn, and 
+       TensorFlow. (Sebastian Raschka, Vahid Mirjalili )
+    4. Hands-on Machine Learning with Scikit-Learn,Keras & TensorFlow.(Aurélien Géron)
+    5. Deep Learning with Python. (Francois Chollet)
+    6. Introduction to Machine Learning with Python.(Andreas C. Müller & Sarah Guido)
+   
+**`Courses`**
+>
+    1. Introduction to machine learning. (fastai)
+    2. Deep learning for coders (fastai)
+    3. Pytorch in 60 minutes (pytorch official tutorial)
+    4. MIT Introduction to Deep Learning (http://introtodeeplearning.com/)
 
 **`Data Repositories`**
 
-4. [kaggle](https://www.kaggle.com)
+1. [kaggle](https://www.kaggle.com)
 
-5. [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+2. [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 
 **`Blogs`**
   
-6. [machine learning mastery](https://www.machinelearningmastery.com)
+3. [machine learning mastery](https://www.machinelearningmastery.com)
 
-7. [mrdbourke](https://www.mrdbourke.com/)
+4. [mrdbourke](https://www.mrdbourke.com/)
+5. [sebastian raschka](https://sebastianraschka.com/)
 
 **`Software`**
 
-8. Anaconda/jupyter notebook : Anaconda is the standard platform for Python data science, leading in 
+1. Anaconda/jupyter notebook : Anaconda is the standard platform for Python data science, leading in 
     open source innovation for machine learning... [anaconda](https://www.anaconda.com) .
     
-9. Goggle Colab : Colaboratory, or "Colab" for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education...[google colab](https://research.google.com/colaboratory)
+2. Goggle Colab : Colaboratory, or "Colab" for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education...[google colab](https://research.google.com/colaboratory)
 
 ## Day 1 : 18-04-2020
 
