@@ -307,6 +307,10 @@ Note : i did not understand this topic, come back to it later.
     4. confusion metrics
     5. kind of errors
     6. inbalanced data
+    
+## Day 37 : 23-05-2020
+
+**`Today's Progress`** : Learning how to use the Ipython software
 
 
 
