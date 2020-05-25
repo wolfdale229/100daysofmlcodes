@@ -328,7 +328,36 @@ Note : i did not understand this topic, come back to it later.
 ## Day 37 : 23-05-2020
 
 **`Today's Progress`** : Learning how to use the Ipython software
+>
+    1. magic function
+    2. copying, pasteing, running python program
 
+## Day 38 : 24-05-2020
+
+**`Today's Progress`** : python 
+>
+    1. list comprehension
+    2. generator expression 
+    3. namedtuples
+
+## Day 39 : 25-05-2020
+
+**`Today's Progress`** : Numpy
+>
+    1. creating an array 
+    2. Basic operations
+    3. Reshaping
+    4. Slicing, Indexing, copying
+    5. Array Concatenation
+        * stack
+        * vstack
+        * hstack
+    6. splitting
+        * split
+        * vsplit
+        * hsplit
+    7. Numpy computation (universal function)
+        
 
 
         
