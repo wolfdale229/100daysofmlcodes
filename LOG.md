@@ -235,7 +235,7 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
     
 ## Day 24-25 : 10/11-05-2020
 
-**`Today's Progress`** : Linear Model
+**`Today's Progress`** : Linear Model and implementation
 >
     1. Ridge Regression
     2. Lasso Regression
@@ -245,7 +245,7 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
         
 ## Day 26 : 12/13-05-2020
 
-**`Today's Progress`** 
+**`Today's Progress`** Read the get started section of the scikit-learn doc and practiced building some models
 >
     1. Practice (Predictiing the price of used fiat automobiles)
     2. Reading scikit-learn doc (Getting started section)
@@ -253,7 +253,7 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
         
 ## Day 27 : 12/13-05-2020
 
-**`Today's Progress`** : Support vector machines      
+**`Today's Progress`** : Support vector machines  
 
 ## Day 28 : 14-05-2020
 
@@ -265,7 +265,7 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
 
 ## Day 30 : 16-05-2020
 
-**`Today's Progress`** : Decision Trees
+**`Today's Progress`** : Looking at Decision tree and how to implement them using sklearn
 >
     1. [Decision tree from scratch](https://r2---sn-i3b7knl6.googlevideo.com/videoplayback?expire=1589601694&ei=PhG_Xs3iC8eR-gbt1LT4BQ&ip=123.16.150.42&id=o-ALauN0Ti66dcaa29L8vJ9TegCgA5KpDOJBk53UioVJAZ&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=592.062&lmt=1540157856275889&fvip=7&fexp=23882514&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgDb9mQLtwkj7G_FNGW13njq9lfG8pdCE77_x40ZbsuSoCIQCeGf7Nuc_pkM6WNSy0IbAcRq9eb6veM_VlvvkFIOqDeQ%3D%3D&contentlength=32934629&video_id=LDRbO9a6XPU&title=Let%E2%80%99s+Write+a+Decision+Tree+Classifier+from+Scratch+-+Machine+Learning+Recipes+%238&rm=sn-8qj-i5ozd7k,sn-8qj-i5oer7k&req_id=9ba6c214ecd3a3ee&ipbypass=yes&redirect_counter=2&cms_redirect=yes&mh=TF&mm=30&mn=sn-i3b7knl6&ms=nxu&mt=1589589380&mv=m&mvi=1&pl=21&lsparams=ipbypass,mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAK_lCOXFjB3EGro4L3lyTYDPexw7JNYLutJVhF4m7FxlAiEAlS1SrOiuDzwD0MsAkUA_A-9rApBJ0n5i1msMRcq9E_I%3D)
     2. Exercise (not all)
@@ -282,7 +282,7 @@ ready .Learn Numpy's data types and how to create a n-dimensional array.
             
 ## Day 32 : 18-05-2020
 
-**`Today's Progress`** Ensemble Learning
+**`Today's Progress`** continuation of the Ensemble models
 >
     1. Extra Trees
     2. exercises 
@@ -298,7 +298,7 @@ Note : i did not understand this topic, come back to it later.
 
 ## Day 34 : 20-05-2020
 
-**`Today's Progress`** : Model Evaluation and Improvement
+**`Today's Progress`** : Learning Model Evaluation and Improvement
 >
     1. Cross validation 
         * K-fold
@@ -308,15 +308,17 @@ Note : i did not understand this topic, come back to it later.
 
 ## Day 35 : 21-05-2020
 
-**`Today's Progress`** : Model Evaluation
+**`Today's Progress`** : Learning ways to eveluate models
 >
     1. Grid Search
         * Grid search with cross validation
         * GridSearchCv estimator
+        
+**`End of my first 35 days of learning, i won't learn deep learning now would have another go at machine learning to really understand it. This time i would be using the fastai intriduction to machine learning course and python machine learning book.`**
 
 ## Day 36 : 22-05-2020
 
-**`Today's Progress`** : Metrics (Binary Classification)
+**`Today's Progress`** : Today is about ways of measuring binary classification models using various metrics
 >
     1. fi_score
     2. Recall
@@ -324,7 +326,7 @@ Note : i did not understand this topic, come back to it later.
     4. confusion metrics
     5. kind of errors
     6. inbalanced data
-    
+
 ## Day 37 : 23-05-2020
 
 **`Today's Progress`** : Learning how to use the Ipython software
@@ -334,7 +336,7 @@ Note : i did not understand this topic, come back to it later.
 
 ## Day 38 : 24-05-2020
 
-**`Today's Progress`** : python 
+**`Today's Progress`** : learnt some advance python concepts (data structures).
 >
     1. list comprehension
     2. generator expression 
@@ -342,7 +344,7 @@ Note : i did not understand this topic, come back to it later.
 
 ## Day 39 : 25-05-2020
 
-**`Today's Progress`** : Numpy
+**`Today's Progress`** : Learning the basics of numpy
 >
     1. creating an array 
     2. Basic operations
@@ -357,8 +359,25 @@ Note : i did not understand this topic, come back to it later.
         * vsplit
         * hsplit
     7. Numpy computation (universal function)
+        * Additions
+        * subtraction
+        * trigonometris
+        * exponential
         
+## Day 40 26-05-2020
 
+**`Today's Progress`** : Numpy
+> 
+    1. Aggregates 
+        * sum
+        * min
+        * max
+        * mean
+        * median
+        * std
+        * all
+        * percentile .....
+    2. Working examples using numpy aggregates
 
         
         
