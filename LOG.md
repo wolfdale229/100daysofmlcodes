@@ -379,7 +379,15 @@ Note : i did not understand this topic, come back to it later.
         * percentile .....
     2. Working examples using numpy aggregates
 
-        
+## Day 41 27-05-2020
+
+**`Today's Progress`** : Today would be the beginning of learning about data manipulation with pandas
+>
+    1. Series
+        * indexing
+        * creating a pd Series object from a dictionary
+    2. DataFrame
+    3. iloc, loc
         
         
         
