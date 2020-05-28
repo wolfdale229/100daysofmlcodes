@@ -388,6 +388,10 @@ Note : i did not understand this topic, come back to it later.
         * creating a pd Series object from a dictionary
     2. DataFrame
     3. iloc, loc
+   
+## Day 52  28-05-2020
+
+**`Today's Progress`** : continuation of  the pandas library and oerating on datas in pandas
         
         
         
