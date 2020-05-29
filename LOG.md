@@ -43,11 +43,10 @@ The following resources would be used for each stage:
     6. Introduction to Machine Learning with Python.(Andreas C. Müller & Sarah Guido)
    
 **`Courses`**
->
-    1. Introduction to machine learning. (fastai)
-    2. Deep learning for coders (fastai)
-    3. Pytorch in 60 minutes (pytorch official tutorial)
-    4. MIT Introduction to Deep Learning (http://introtodeeplearning.com/)
+1. [Introduction to machine learning](https://www.fast.ai/)(fastai).
+2. [Deep learning for coders](https://www.fast.ai/)(fastai)
+3. [Pytorch](https://www.pytorch.org/) in 60 minutes
+4. MIT Introduction to [Deep Learning](http://introtodeeplearning.com/)
 
 **`Data Repositories`**
 
@@ -389,13 +388,66 @@ Note : i did not understand this topic, come back to it later.
     2. DataFrame
     3. iloc, loc
    
-## Day 52  28-05-2020
+## Day 42  28-05-2020
 
 **`Today's Progress`** : continuation of  the pandas library and oerating on datas in pandas
+>
+    1. ufunc operations on a DataFrame object
+    2. Handling missing data.
+        * dropna()
+        * fillna()
+        * isnull()
+        * notnull()
+    3. Hierarchical Indexing
         
+## Day 43  29-05-2020
+
+**`Today's Progress`** : still learning about the Pandas library
         
-        
-        
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
         
         
         
