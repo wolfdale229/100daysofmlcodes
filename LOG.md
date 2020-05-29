@@ -403,6 +403,16 @@ Note : i did not understand this topic, come back to it later.
 ## Day 43  29-05-2020
 
 **`Today's Progress`** : still learning about the Pandas library
+>
+    1. aggregation and grouping
+        methods:
+        * count()
+        * mean(), median()
+        * first(), last()
+        * std(), var()
+        * prod()
+        * sum()
+        * min(), max()
         
        
        
