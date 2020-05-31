@@ -17,7 +17,8 @@ Within the period of 100 days i would read and practice enough data science and 
 
 5. `TensorFlow` : TensorFlow is an end-to-end open source platform for machine learning. It has a 
     comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers 
-    push the state-of-the-art in ML and developers easily build and deploy ML powered applications... 
+    push the state-of-th
+    e-art in ML and developers easily build and deploy ML powered applications... 
     [tensorflow](https://www.tensorflow.org/)
 
 6. `Pytorch` :  It is a deep learning research platforms built to provide maximum flexibility and 
@@ -363,7 +364,7 @@ Note : i did not understand this topic, come back to it later.
         * trigonometris
         * exponential
         
-## Day 40 26-05-2020
+## Day 40 : 26-05-2020
 
 **`Today's Progress`** : Numpy
 > 
@@ -378,7 +379,7 @@ Note : i did not understand this topic, come back to it later.
         * percentile .....
     2. Working examples using numpy aggregates
 
-## Day 41 27-05-2020
+## Day 41 : 27-05-2020
 
 **`Today's Progress`** : Today would be the beginning of learning about data manipulation with pandas
 >
@@ -388,7 +389,7 @@ Note : i did not understand this topic, come back to it later.
     2. DataFrame
     3. iloc, loc
    
-## Day 42  28-05-2020
+## Day 42 : 28-05-2020
 
 **`Today's Progress`** : continuation of  the pandas library and oerating on datas in pandas
 >
@@ -400,7 +401,7 @@ Note : i did not understand this topic, come back to it later.
         * notnull()
     3. Hierarchical Indexing
         
-## Day 43  29-05-2020
+## Day 43 : 29-05-2020
 
 **`Today's Progress`** : still learning about the Pandas library
 >
@@ -413,7 +414,23 @@ Note : i did not understand this topic, come back to it later.
         * prod()
         * sum()
         * min(), max()
-        
+
+## Day 44 : 30-05-2020
+
+**`Today's Progress`** : learning aggregate, filter, transform and apply methods in Pandas.
+>
+    1. pivot table
+    2. Vectorized string operations
+    3. Methods using regular expressions
+    
+## Day 45 : 31-05-2020
+
+**`Today's Progress`** : reading about time series analysis in Pandas
+>
+    1. Time series data
+    2. Dates and times in Pandas: Best of both worlds
+    3. Indexing, Selecting, subsetting
+    
        
        
        
