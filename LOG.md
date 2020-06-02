@@ -431,8 +431,22 @@ Note : i did not understand this topic, come back to it later.
     2. Dates and times in Pandas: Best of both worlds
     3. Indexing, Selecting, subsetting
     
-       
-       
+## Day 46 : 1-06-2020
+
+**`Today's Progress`** : Visualization with Matplotlib and Seaborn.
+>
+    1. Simple plot
+    2. Adjusting the plot : Line Color and Style
+    3. Adjusting the plot : Axes Limits
+
+## Day 47 : 1-06-2020
+
+**`Today's Progress`** : continuation of data visualization with matplotlib
+>
+    1. Labeling Plots
+    2. Scatter plots(plt.plot and plt.scatter)
+    3. Changing size, color, and transparency in scatter points
+    4. Histograms, Binning, and Density
        
        
        
