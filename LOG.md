@@ -439,7 +439,7 @@ Note : i did not understand this topic, come back to it later.
     2. Adjusting the plot : Line Color and Style
     3. Adjusting the plot : Axes Limits
 
-## Day 47 : 1-06-2020
+## Day 47 : 2-06-2020
 
 **`Today's Progress`** : continuation of data visualization with matplotlib
 >
@@ -448,7 +448,11 @@ Note : i did not understand this topic, come back to it later.
     3. Changing size, color, and transparency in scatter points
     4. Histograms, Binning, and Density
        
-       
+ ## Day 48 : 3-06-2020
+
+ **`Today's Progress`** : Learning what machine learning is, the types, terminology and notations.
+ >
+     1. learning algorithm for classification
        
        
        
