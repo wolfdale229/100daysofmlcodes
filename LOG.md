@@ -452,10 +452,14 @@ Note : i did not understand this topic, come back to it later.
 
  **`Today's Progress`** : Learning what machine learning is, the types, terminology and notations.
  >
-     1. learning algorithm for classification
-       
-       
-       
+     1. implementing a perceptron algorithm    
+     
+## Day 49 : 4-06-2020
+
+**`Today's Progress`** : Adaptive linear neurons
+>
+    1. implementing Adaline in python 
+    2. Machine learning classifiers using scikit-learn
        
        
        
