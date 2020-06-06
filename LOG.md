@@ -468,6 +468,13 @@ Note : i did not understand this topic, come back to it later.
     1. Modeling class probabilities via Logistic Regression
     2. Support Vector Machines
     3. Decision tree
+    4. Dealing with missing values
+    5. Handling categorical values
+    6. One Hot Encoding
+    7. Label Encoding
+    8. Partitioning a dataset into separate training and test datasets
+    9. Feature scaling
+    10. feature selection 
 
        
        
