@@ -461,14 +461,14 @@ Note : i did not understand this topic, come back to it later.
     1. implementing Adaline in python 
     2. Machine learning classifiers using scikit-learn
        
-## Day 50 : 5-06-2020
+## Day 50 -51 : (5-6)-06-2020
 
-**`Today's Progress`** : still learning classifiers using sklearn
+**`Today's Progress`** : still learning classifiers using sklearn, Data preprocessing
 >
     1. Modeling class probabilities via Logistic Regression
-       
-       
-       
+    2. Support Vector Machines
+    3. Decision tree
+
        
        
        
