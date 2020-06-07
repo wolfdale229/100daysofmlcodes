@@ -461,7 +461,7 @@ Note : i did not understand this topic, come back to it later.
     1. implementing Adaline in python 
     2. Machine learning classifiers using scikit-learn
        
-## Day 50 -51 : (5-6)-06-2020
+## Day 50-51 : (5-6)-06-2020
 
 **`Today's Progress`** : still learning classifiers using sklearn, Data preprocessing
 >
@@ -476,8 +476,11 @@ Note : i did not understand this topic, come back to it later.
     9. Feature scaling
     10. feature selection 
 
-       
-       
+## Day 52 : 7-06-202
+
+**`Today's Progress`** : Still on preprocessing data fro machine learning
+>
+    1. feature importtance in Random Forest 
        
        
        
