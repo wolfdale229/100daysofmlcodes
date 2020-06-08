@@ -478,11 +478,14 @@ Note : i did not understand this topic, come back to it later.
 
 ## Day 52 : 7-06-202
 
-**`Today's Progress`** : Still on preprocessing data fro machine learning
+**`Today's Progress`** : Still on preprocessing data for machine learning
 >
     1. feature importtance in Random Forest 
+    2. Dimentionality reduction 
        
-       
+## Day 53 : 8-06-2020
+
+**`Today's Progress`** : Still on dimensionality reduction 
        
        
        
