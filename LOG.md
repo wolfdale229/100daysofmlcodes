@@ -483,7 +483,7 @@ Note : i did not understand this topic, come back to it later.
     1. feature importtance in Random Forest 
     2. Dimentionality reduction 
        
-## Day 53 : 8-06-2020
+## Day 53/54 : (8-9)-06-2020
 
 **`Today's Progress`** : Still on dimensionality reduction 
        
