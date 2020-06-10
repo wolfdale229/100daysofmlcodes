@@ -483,10 +483,20 @@ Note : i did not understand this topic, come back to it later.
     1. feature importtance in Random Forest 
     2. Dimentionality reduction 
        
-## Day 53/54 : (8-9)-06-2020
+## Day 53 : 8-06-2020
 
 **`Today's Progress`** : Still on dimensionality reduction 
-       
+>
+    1. principal component analysis
+    2. kernel PCA
+    
+## Day 54-55 : (9-10)-06-2020
+
+**`Today's Progress`** : Regression analysis, What is a regression model
+>
+    1. simple linear regression
+    2. Multiple linear regression 
+    3. Exploratory Data Analysis
        
        
        
