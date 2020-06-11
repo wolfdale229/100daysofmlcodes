@@ -497,6 +497,13 @@ Note : i did not understand this topic, come back to it later.
     1. simple linear regression
     2. Multiple linear regression 
     3. Exploratory Data Analysis
+    4. Implementing an ordinary least squares linear regression model
+
+## Day 56 : 11-06-2020
+
+**`Today's Progress`** : Redoing Dimensionality reduction 
+>
+    1. Principal component analysis
        
        
        
