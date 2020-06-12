@@ -509,10 +509,6 @@ Note : i did not understand this topic, come back to it later.
 
 learning about Unsupervised learning techniques
 
-## Day 57 : 12-06-2020
-
-**`Today's Progress`** : Finishing up on Unsupervised learning.
-
 **`Starting the Fastai's Intro to Machine Learning course today and i'd be using the Introduction to Machine Learning with Python.(Andreas C. Müller & Sarah Guido) book as a companion to the course. I'm setting aside a week for each topic in the course, this would entail:`**
 
 **Book(s):** Introduction to Machine Learning with Python.(Andreas C. Müller & Sarah Guido)
@@ -530,6 +526,9 @@ learning about Unsupervised learning techniques
 
 **Note :**Step 1-6 would be done per-week.
        
+## Day 57 : 12-06-2020
+
+**`Today's Progress`** : Finishing up on Unsupervised learning.
        
        
        
