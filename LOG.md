@@ -501,10 +501,34 @@ Note : i did not understand this topic, come back to it later.
 
 ## Day 56 : 11-06-2020
 
-**`Today's Progress`** : Redoing Dimensionality reduction 
+**`Today's Progress`** : Redoing Dimensionality reduction, different types of principal component analysis method
 >
     1. Principal component analysis
-       
+    2. Singular value decomposition(SVD)
+    3. Randomized PCA
+
+learning about Unsupervised learning techniques
+
+## Day 57 : 12-06-2020
+
+**`Today's Progress`** : Finishing up on Unsupervised learning.
+
+**`Starting the Fastai's Intro to Machine Learning course today and i'd be using the Introduction to Machine Learning with Python.(Andreas C. Müller & Sarah Guido) book as a companion to the course. I'm setting aside a week for each topic in the course, this would entail:`**
+
+**Book(s):** Introduction to Machine Learning with Python.(Andreas C. Müller & Sarah Guido)
+
+**Course:** Fastai, Introduction to Machine Learning.(jeremy Howard & Rachel Thomas)
+
+**Steps:**
+>
+    1. Watch a course video and jot down concepts.
+    2. Read up on what i have jotted down and read about machine learning.
+    3. Watch the video again and work through the example.
+    4. Implement the lecture's idea without the help of the video 
+    5. Biuld a project based on what i have learnt.
+    6. Write a blog on what i have learnt so far.
+
+**Note :**Step 1-6 would be done per-week.
        
        
        
