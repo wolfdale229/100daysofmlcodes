@@ -509,11 +509,20 @@ Note : i did not understand this topic, come back to it later.
 
 learning about Unsupervised learning techniques
 
+## Day 57 : 12-06-2020
+
+**`Today's Progress`** : Finishing up on Unsupervised learning.
+NOTE : I would re-read this topic again and python machine learning book would benefit does who are good in mathematics.
+>
+    1. Clustering
+    2. Using Clustering for Preprocessing
+    3. DBSCAN
+
 **`Starting the Fastai's Intro to Machine Learning course today and i'd be using the Introduction to Machine Learning with Python.(Andreas C. Müller & Sarah Guido) book as a companion to the course. I'm setting aside a week for each topic in the course, this would entail:`**
 
 **Book(s):** Introduction to Machine Learning with Python.(Andreas C. Müller & Sarah Guido)
 
-**Course:** Fastai, Introduction to Machine Learning.(jeremy Howard & Rachel Thomas)
+**Course:** Fastai, Introduction to Machine Learning.(Jeremy Howard & Rachel Thomas)
 
 **Steps:**
 >
@@ -524,11 +533,8 @@ learning about Unsupervised learning techniques
     5. Biuld a project based on what i have learnt.
     6. Write a blog on what i have learnt so far.
 
-**Note :**Step 1-6 would be done per-week.
+**Note :**Step 1-6 would be done per-week (approx).
        
-## Day 57 : 12-06-2020
-
-**`Today's Progress`** : Finishing up on Unsupervised learning.
        
        
        
