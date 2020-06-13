@@ -535,7 +535,11 @@ NOTE : I would re-read this topic again and python machine learning book would b
 
 **Note :**Step 1-6 would be done per-week (approx).
        
-       
+## Day 58 : 13-06-2020
+
+**`Today's Progress`** : Reading about machine learning in general and what i jotted down from the lecture video
+> 
+    1. Working on the iris dataset
        
        
        
