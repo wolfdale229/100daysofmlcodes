@@ -530,7 +530,7 @@ NOTE : I would re-read this topic again and python machine learning book would b
     2. Read up on what i have jotted down and read about machine learning.
     3. Watch the video again and work through the example.
     4. Implement the lecture's idea without the help of the video 
-    5. Biuld a project based on what i have learnt.
+    5. Biuld a project (work on a data set) based on what i have learnt.
     6. Write a blog on what i have learnt so far.
 
 **Note :**Step 1-6 would be done per-week (approx).
@@ -541,7 +541,14 @@ NOTE : I would re-read this topic again and python machine learning book would b
 > 
     1. Working on the iris dataset
        
-       
+## Day 59 : 15-06-2020
+
+**`Today's Progress`** 
+>
+    1. What is supervised learning
+    2. Types of supervised learning 
+    3. Generalization, Overfitting, and Underfitting
+    4. K-Nearest Neighbors
        
        
        
