@@ -24,7 +24,8 @@ Within the period of 100 days i would read and practice enough data science and 
 6. `Pytorch` :  It is a deep learning research platforms built to provide maximum flexibility and 
     speed... [pytorch](https://pytorch.org/)
 
-7. `Keras` : Keras deep-learning framework that is the easiest framework to get started with...             [Keras](http://www.keras.org/)
+7. `Keras` : Keras deep-learning framework that is the easiest framework to get started with... 
+    [Keras](http://www.keras.org/)
 
 8. `Fastai` : Deep-learning library that works with pytorch...[fastai](https://fast.ai/)
 
@@ -550,9 +551,17 @@ NOTE : I would re-read this topic again and python machine learning book would b
     3. Generalization, Overfitting, and Underfitting
     4. K-Nearest Neighbors
        
+## Day 60 : 16-06-2020
+
+**`Today's Progress`** 
+>
+    1. Watching and working through lessons 1 of the fastai lecture
        
-       
-       
+## Day 61 : 17-06-2020
+
+**`Today's Progress`**
+> 
+    1. Reading about Linear Models
        
        
        
