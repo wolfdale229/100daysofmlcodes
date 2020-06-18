@@ -563,7 +563,13 @@ NOTE : I would re-read this topic again and python machine learning book would b
 > 
     1. Reading about Linear Models
        
-       
+## Day 62 : 18-06-2020
+
+**`Today's Progress`** : I would take a break, reinstall anaconda and set up fastai.v0.7 and fastai.v3 environmaents properly. Shit seems to be messed up.
+>
+    1. Reinstall anaconda and extensions
+    2. Create a conda environment for fastai v0.1 (Introduction to machine learning)
+    3. Create a conda envirment for fastai v3
        
        
        
