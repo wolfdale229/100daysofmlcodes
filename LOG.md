@@ -570,7 +570,8 @@ NOTE : I would re-read this topic again and python machine learning book would b
     1. Reinstall anaconda and extensions
     2. Create a conda environment for fastai v0.1 (Introduction to machine learning)
     3. Create a conda envirment for fastai v3
-       
+    4. Building a RandomforestRegression forest of the blue book for bulldozers dataset with looking (and using) at the fastai  
+       code.
        
        
        
