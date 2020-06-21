@@ -573,6 +573,17 @@ NOTE : I would re-read this topic again and python machine learning book would b
     4. Building a RandomforestRegression forest of the blue book for bulldozers dataset with looking (and using) at the fastai  
        code.
        
+## Day 62 : 19-06-2020
+
+
+## Day 63 : 20-06-2020
+
+**`Today's Progress`** : Refreshing my python knowledge 
+
+## Day 64 : 21-06-2020
+
+**`Today's Progress`** : Watching lecture 2 of the fastai introductfion to machine learning course
+       
        
        
        
