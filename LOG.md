@@ -582,7 +582,7 @@ NOTE : I would re-read this topic again and python machine learning book would b
 
 ## Day 64 : 21-06-2020
 
-**`Today's Progress`** : Watching lecture 2 of the fastai introductfion to machine learning course
+**`Today's Progress`** : Watching lecture 2 of the fastai introductfion to machine learning course, work on some pandas exercises and keep refreshing my python skills
        
        
        
