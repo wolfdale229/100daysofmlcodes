@@ -15,20 +15,6 @@ Within the period of 100 days i would read and practice enough data science and 
 
 4. `Scikit-learn` : It contains a number of state-of-the-art machine learning algorithms.
 
-5. `TensorFlow` : TensorFlow is an end-to-end open source platform for machine learning. It has a 
-    comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers 
-    push the state-of-th
-    e-art in ML and developers easily build and deploy ML powered applications... 
-    [tensorflow](https://www.tensorflow.org/)
-
-6. `Pytorch` :  It is a deep learning research platforms built to provide maximum flexibility and 
-    speed... [pytorch](https://pytorch.org/)
-
-7. `Keras` : Keras deep-learning framework that is the easiest framework to get started with... 
-    [Keras](http://www.keras.org/)
-
-8. `Fastai` : Deep-learning library that works with pytorch...[fastai](https://fast.ai/)
-
 
 ## **`Resources`**
 
@@ -41,14 +27,12 @@ The following resources would be used for each stage:
     3. Python Machine Learning,Machine Learning and Deep Learning with Python,scikit-learn, and 
        TensorFlow. (Sebastian Raschka, Vahid Mirjalili )
     4. Hands-on Machine Learning with Scikit-Learn,Keras & TensorFlow.(Aurélien Géron)
-    5. Deep Learning with Python. (Francois Chollet)
-    6. Introduction to Machine Learning with Python.(Andreas C. Müller & Sarah Guido)
+    5. Introduction to Machine Learning with Python.(Andreas C. Müller & Sarah Guido)
    
 **`Courses`**
+
 1. [Introduction to machine learning](https://www.fast.ai/)(fastai).
-2. [Deep learning for coders](https://www.fast.ai/)(fastai)
-3. [Pytorch](https://www.pytorch.org/) in 60 minutes
-4. MIT Introduction to [Deep Learning](http://introtodeeplearning.com/)
+2. [Complete Machine Learning and Data Science: Zero to Mastery](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
 
 **`Data Repositories`**
 
@@ -584,7 +568,9 @@ NOTE : I would re-read this topic again and python machine learning book would b
 
 **`Today's Progress`** : Watching lecture 2 of the fastai introductfion to machine learning course, work on some pandas exercises and keep refreshing my python skills
        
-       
+## Day 65 : 22-06-2020
+
+**`Today's Progress`** : Learning about decision trees, work on some pandas execises and learning regular expression in python 
        
        
        
