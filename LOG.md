@@ -572,7 +572,10 @@ NOTE : I would re-read this topic again and python machine learning book would b
 
 **`Today's Progress`** : Learning about decision trees, work on some pandas execises and learning regular expression in python 
        
-       
+## Day 66 : 23-06-2020
+
+**`Today's Progress`** : Doing some Exploratory data analysis, pandas exerice, building a random forest model using the fastai library, complete the Decision tree reading.
+
        
        
        
