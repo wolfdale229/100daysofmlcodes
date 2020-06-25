@@ -576,8 +576,13 @@ NOTE : I would re-read this topic again and python machine learning book would b
 
 **`Today's Progress`** : Doing some Exploratory data analysis, pandas exerice, building a random forest model using the fastai library, complete the Decision tree reading.
 
-       
-       
+## Day 67 : 24-06-2020
+
+**`Today's Progress`** : Worked on the titanic dataset, completing decision trees.
+
+## Day 68 : 25-06-2020
+
+**`Today's Progree`** : working through the second lecture, working on some pandas exercise.
        
        
        
